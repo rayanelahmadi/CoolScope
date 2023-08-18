@@ -9,6 +9,7 @@ https://www.ni.com/en-us/support/downloads/drivers/download.ni-visa.html#346210
 4.	Next go into the Command Prompt and type “pip install pyvisa”
 5.	Press enter.
 6.	You have installed pyvisa.
+   
 Installation Python:
 1.	Go to https://www.python.org/downloads/
 2.	Download the latest version of python
